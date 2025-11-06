@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  color: rgb(251, 251, 251);
+  text-align: center;
+  background-color: rgb(35, 34, 35);
+}
+
+canvas {
+  display: block;
+  margin: auto;
+}
