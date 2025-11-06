@@ -6,6 +6,18 @@ html, body {
   background-color: rgb(35, 34, 35);
 }
 
+a:link {
+  color:aqua;
+}
+
+a:visited {
+  color:aqua;
+}
+
+a:hover {
+  color: rgb(251, 251, 251);
+}
+
 canvas {
   display: block;
   margin: auto;
