@@ -138,7 +138,7 @@ function mouseClicked(){
       showData = true;
       for (let k = 0; k < bubbleNum; k ++){
         if (bubbles[k].hovered == true){
-          let songName = createP(kalx[k].artist + ": " + kalx[k].song + "\n")
+          let songName = createP(kalx[k].artist + ": " + kalx[k].song )//+ "\n")
         }
       }
       } else {
